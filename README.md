@@ -9,3 +9,6 @@ Example:
 
 1. Educational apps which provides lessons on AI and machine learning
 2. Single player games using AI and multiplayer games
+
+Reference:
+https://github.com/ThilinaRajapakse/simpletransformers
